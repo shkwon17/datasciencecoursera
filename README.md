@@ -1,2 +1,2 @@
 # datasciencecoursera
-Repo_for_Corsera
+Repo_for_Coursera
